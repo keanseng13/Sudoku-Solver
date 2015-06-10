@@ -8,9 +8,7 @@ Extremely tough sudoku could take more that 10 minutes.
 
 Enter 9 rows digits with each digit between 1 and 9 or - for n/a
 Row[1] : 4827--1--
-
 Row[2] : ----43---
-
 Row[3] : 3--1--9--
 Row[4] : -31-----5
 Row[5] : -9-----3-
