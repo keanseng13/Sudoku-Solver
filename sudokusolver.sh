@@ -276,7 +276,7 @@ echo "End Time"
 date
 echo -e "\n"
 
-cat $OUTPUT | sed 's/.\{1\}/& /g'
+cat $OUTPUT | sed 's/.\{3\}/& /g' | sed '7i\\' | sed '4i\\'
 
 rm $USERINPUT
 rm $USERINPUT2
