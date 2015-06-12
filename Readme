@@ -3,8 +3,8 @@ Work well in Linux, having problem in AIX
 Sudoku Solver Souce Code in Bash Shell
 
 Run the script and key in 9 rows digits.
-It should return you the result as below as long as it's a valid sudoku you entered.
-Extremely tough sudoku could take more that 10 minutes.
+It should return you the result as long as it's a valid sudoku you entered.
+Using brute force cracking method so extremely tough sudoku could take more that 10 minutes.
 
 
 Enter 9 rows digits with each digit between 1 and 9 or - for n/a
