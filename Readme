@@ -4,7 +4,7 @@ Sudoku Solver Souce Code in Bash Shell
 Work well in Linux Red Hat Enterprise Linux Server release 6.5 (Santiago) and above.
 The sed (Stream EDitor) editor must be version 4.2.1 or above.
 
-This scriptis  having problem to run in AIX and Solaris due to incompactible sed.
+This script is having problem to run on AIX and Solaris due to incompactible sed.
 
 
 Run the script and key in 9 rows digits.
