@@ -1,10 +1,15 @@
-Work well in Linux, having problem in AIX
-
 Sudoku Solver Souce Code in Bash Shell
+--------------------------------------
+
+Work well in Linux Red Hat Enterprise Linux Server release 6.5 (Santiago) and above.
+The sed (Stream EDitor) editor must be version 4.2.1 or above.
+
+This scriptis  having problem to run in AIX and Solaris due to incompactible sed.
+
 
 Run the script and key in 9 rows digits.
 It should return you the result as long as it's a valid sudoku you entered.
-Using brute force cracking method so extremely tough sudoku could take more that 10 minutes.
+Using brute force cracking method, for extreme sudoku it could take more than 10 minutes to resolve.
 
 
 Enter 9 rows digits with each digit between 1 and 9 or - for n/a
@@ -19,13 +24,12 @@ Row[8] : -6--9--4-
 Row[9] : 8--4-5--6
 
 
+Hit enter and when finish the following result will be shown:-
 
 Start Time
 Tue Jun 9 02:53:26 CDT 2015
 End Time
 Tue Jun  9 02:54:55 CDT 2015
-
-
 
 432 659 178
 915 748 623
